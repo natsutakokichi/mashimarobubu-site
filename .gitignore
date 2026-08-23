@@ -8,3 +8,6 @@ node_modules/
 !images/*.jpg
 !images/*.png
 .vercel
+
+# ブリーフ（参考資料）
+マシマロBUBU_サイトリニューアル_ブリーフ.md
