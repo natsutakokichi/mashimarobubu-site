@@ -7,3 +7,4 @@ node_modules/
 !images/**
 !images/*.jpg
 !images/*.png
+.vercel
